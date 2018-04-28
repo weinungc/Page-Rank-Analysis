@@ -6,6 +6,10 @@ create external_pageRankFile.txt
 
 You need to install [Jave 8 or later](https://java.com/zh_TW/download/) [Python](https://www.python.org/downloads/) and [networks](https://networkx.github.io/documentation/stable/install.html)
 
+## Running the data
+
+you can use [crawler4j](https://github.com/yasserg/crawler4j) to crawl your own data or [example](https://drive.google.com/file/d/1znldgLNSJmqrnqN8Hi5iH8bnlUwdujor/view?usp=sharing) here
+
 ## Running the tests
 
 1. Use the jar file in target. the first parameter will be the path to csv file. The second parameter will be folder which contain HTML files. The output is Edge.txt 
